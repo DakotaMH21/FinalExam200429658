@@ -1,11 +1,15 @@
 package com.example.f21comp1011gcfinalb;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.RadioButton;
 
-public class InventoryPriceController{
+import java.net.URL;
+import java.util.ResourceBundle;
+
+public class InventoryPriceController implements Initializable {
 
     @FXML
     private Label numOfCarsLabel;
@@ -28,4 +32,18 @@ public class InventoryPriceController{
     @FXML
     private Label headerLabel;
 
+    private void onLoadCarList(){
+        carListView.getItems().clear();
+        Dealership dealership = APIUtility.getFromJsonFile();
+        if(dealership != null)
+        {
+            carListView.getItems().addAll(dealership.getStock());
+            headerLabel.setText("Dealer: " + dealership.getDealer());
+        }
+    }
+
+    @Override
+    public void initialize(URL url, ResourceBundle resourceBundle) {
+        onLoadCarList();
+    }
 }
