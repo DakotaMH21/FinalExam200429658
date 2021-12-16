@@ -28,5 +28,4 @@ public class InventoryPriceController{
     @FXML
     private Label headerLabel;
 
-
 }
