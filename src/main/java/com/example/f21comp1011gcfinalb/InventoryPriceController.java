@@ -1,5 +1,7 @@
 package com.example.f21comp1011gcfinalb;
 
+import javafx.beans.value.ChangeListener;
+import javafx.beans.value.ObservableValue;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.Label;
@@ -49,6 +51,13 @@ public class InventoryPriceController implements Initializable {
                 max += 20000;
                 priceListView.getItems().add(range);
             }
+
+            priceListView.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<PriceRange>() {
+                @Override
+                public void changed(ObservableValue<? extends PriceRange> observableValue, PriceRange priceRange, PriceRange t1) {
+                    carListView.getItems().addAll();
+                }
+            });
         }
     }
 
