@@ -1,0 +1,2004 @@
+{
+  "Dealer": "Fancy Fred Fixer Upper's",
+  "CarsReturned" : 250,
+  "Stock": [{
+      "StockNum": 9586,
+      "year": 2020,
+      "Brand": "Volvo",
+      "price": 43618.36,
+      "Model": "XC60",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9587,
+      "year": 2006,
+      "Brand": "HUMMER",
+      "price": 29017.78,
+      "Model": "H2",
+      "type": "SUV, Pickup"
+    },
+    {
+      "StockNum": 9588,
+      "year": 2016,
+      "Brand": "GMC",
+      "price": 19381.66,
+      "Model": "Sierra 1500 Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9589,
+      "year": 2008,
+      "Brand": "GMC",
+      "price": 21383.29,
+      "Model": "Canyon Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9590,
+      "year": 2016,
+      "Brand": "Subaru",
+      "price": 24685.84,
+      "Model": "Outback",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9591,
+      "year": 2010,
+      "Brand": "Mitsubishi",
+      "price": 15734.09,
+      "Model": "Outlander",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9592,
+      "year": 1998,
+      "Brand": "Dodge",
+      "price": 18556.52,
+      "Model": "Ram Van 1500",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9593,
+      "year": 2014,
+      "Brand": "Nissan",
+      "price": 21939.81,
+      "Model": "Pathfinder",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9594,
+      "year": 2014,
+      "Brand": "Honda",
+      "price": 18886.35,
+      "Model": "Civic",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9595,
+      "year": 2009,
+      "Brand": "Subaru",
+      "price": 27000.18,
+      "Model": "Outback",
+      "type": "Wagon"
+    },
+    {
+      "StockNum": 9596,
+      "year": 2009,
+      "Brand": "Lincoln",
+      "price": 52835.61,
+      "Model": "Navigator L",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9597,
+      "year": 2000,
+      "Brand": "GMC",
+      "price": 18197.15,
+      "Model": "Yukon Denali",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9598,
+      "year": 2007,
+      "Brand": "Hyundai",
+      "price": 16559.69,
+      "Model": "Tucson",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9599,
+      "year": 2018,
+      "Brand": "BMW",
+      "price": 46789.21,
+      "Model": "7 Series",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9600,
+      "year": 1992,
+      "Brand": "Dodge",
+      "price": 20992.49,
+      "Model": "Caravan Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9601,
+      "year": 2008,
+      "Brand": "Hyundai",
+      "price": 14849.75,
+      "Model": "Accent",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9602,
+      "year": 2017,
+      "Brand": "Nissan",
+      "price": 17767.59,
+      "Model": "Frontier King Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9603,
+      "year": 2019,
+      "Brand": "Nissan",
+      "price": 21517.19,
+      "Model": "Altima",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9604,
+      "year": 2018,
+      "Brand": "Honda",
+      "price": 19214.24,
+      "Model": "Clarity Plug-in Hybrid",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9605,
+      "year": 2014,
+      "Brand": "Buick",
+      "price": 4279.76,
+      "Model": "Verano",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9606,
+      "year": 2007,
+      "Brand": "Bentley",
+      "price": 347972.17,
+      "Model": "Azure",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9607,
+      "year": 2017,
+      "Brand": "Lexus",
+      "price": 50213.74,
+      "Model": "RC",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9608,
+      "year": 2012,
+      "Brand": "Chevrolet",
+      "price": 22063.800000000003,
+      "Model": "Sonic",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9609,
+      "year": 2013,
+      "Brand": "Nissan",
+      "price": 19862.39,
+      "Model": "NV2500 HD Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9610,
+      "year": 1995,
+      "Brand": "GMC",
+      "price": 21503.99,
+      "Model": "Sonoma Club Coupe Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9611,
+      "year": 2007,
+      "Brand": "Jaguar",
+      "price": 48798.119999999995,
+      "Model": "X-Type",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9612,
+      "year": 2004,
+      "Brand": "Mercedes-Benz",
+      "price": 74498.58,
+      "Model": "SL-Class",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9613,
+      "year": 1995,
+      "Brand": "Chevrolet",
+      "price": 22324.390000000003,
+      "Model": "Sportvan G30",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9614,
+      "year": 2004,
+      "Brand": "GMC",
+      "price": 20888.4,
+      "Model": "Sierra 2500 HD Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9615,
+      "year": 2016,
+      "Brand": "Volkswagen",
+      "price": 19821.78,
+      "Model": "e-Golf",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9616,
+      "year": 2010,
+      "Brand": "Aston Martin",
+      "price": 254929.99,
+      "Model": "DBS",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9617,
+      "year": 1996,
+      "Brand": "Chevrolet",
+      "price": 24483.34,
+      "Model": "Beretta",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9618,
+      "year": 2020,
+      "Brand": "Land Rover",
+      "price": 106320.4,
+      "Model": "Range Rover Sport",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9619,
+      "year": 1996,
+      "Brand": "Pontiac",
+      "price": 16881.24,
+      "Model": "Firebird",
+      "type": "Convertible, Hatchback"
+    },
+    {
+      "StockNum": 9620,
+      "year": 2011,
+      "Brand": "Cadillac",
+      "price": 42310.909999999996,
+      "Model": "SRX",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9621,
+      "year": 2011,
+      "Brand": "Ford",
+      "price": 25888.5,
+      "Model": "E350 Super Duty Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9622,
+      "year": 2015,
+      "Brand": "Nissan",
+      "price": 17796.61,
+      "Model": "Frontier Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9623,
+      "year": 2003,
+      "Brand": "Ford",
+      "price": 27481.97,
+      "Model": "F250 Super Duty Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9624,
+      "year": 2017,
+      "Brand": "Ford",
+      "price": 26485.65,
+      "Model": "Escape",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9625,
+      "year": 2019,
+      "Brand": "Volkswagen",
+      "price": 22022.41,
+      "Model": "Golf SportWagen",
+      "type": "Wagon"
+    },
+    {
+      "StockNum": 9626,
+      "year": 2019,
+      "Brand": "FIAT",
+      "price": 5680.7300000000005,
+      "Model": "500 Abarth",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9627,
+      "year": 1994,
+      "Brand": "Saab",
+      "price": 13274.79,
+      "Model": "9000",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9628,
+      "year": 2006,
+      "Brand": "Kia",
+      "price": 15300.19,
+      "Model": "Sorento",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9629,
+      "year": 2009,
+      "Brand": "Lamborghini",
+      "price": 181770.74,
+      "Model": "Murcielago",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9630,
+      "year": 2020,
+      "Brand": "Kia",
+      "price": 17477.84,
+      "Model": "Rio",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9631,
+      "year": 2011,
+      "Brand": "Audi",
+      "price": 49946.27,
+      "Model": "A5",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9632,
+      "year": 2018,
+      "Brand": "GMC",
+      "price": 19075.65,
+      "Model": "Sierra 2500 HD Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9633,
+      "year": 1994,
+      "Brand": "Audi",
+      "price": 47179.03,
+      "Model": "100",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9634,
+      "year": 2001,
+      "Brand": "BMW",
+      "price": 44356.25,
+      "Model": "Z8",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9635,
+      "year": 1999,
+      "Brand": "Pontiac",
+      "price": 17699.1,
+      "Model": "Grand Am",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9636,
+      "year": 2015,
+      "Brand": "Mercedes-Benz",
+      "price": 71054.73999999999,
+      "Model": "GL-Class",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9637,
+      "year": 2011,
+      "Brand": "Nissan",
+      "price": 18401.83,
+      "Model": "Titan Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9638,
+      "year": 2019,
+      "Brand": "Land Rover",
+      "price": 107045.87,
+      "Model": "Range Rover Sport",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9639,
+      "year": 2008,
+      "Brand": "Subaru",
+      "price": 26307.57,
+      "Model": "Tribeca",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9640,
+      "year": 2007,
+      "Brand": "Jeep",
+      "price": 38128.729999999996,
+      "Model": "Grand Cherokee",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9641,
+      "year": 1994,
+      "Brand": "Dodge",
+      "price": 19758.65,
+      "Model": "Dakota Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9642,
+      "year": 1995,
+      "Brand": "Honda",
+      "price": 18014.11,
+      "Model": "del Sol",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9643,
+      "year": 2010,
+      "Brand": "MAZDA",
+      "price": 18982.28,
+      "Model": "RX-8",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9644,
+      "year": 2012,
+      "Brand": "Chevrolet",
+      "price": 24158.11,
+      "Model": "Tahoe",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9645,
+      "year": 2017,
+      "Brand": "Land Rover",
+      "price": 103929.01,
+      "Model": "Range Rover Evoque",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9646,
+      "year": 2005,
+      "Brand": "GMC",
+      "price": 20455.49,
+      "Model": "Envoy",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9647,
+      "year": 2013,
+      "Brand": "GMC",
+      "price": 18058.89,
+      "Model": "Yukon",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9648,
+      "year": 2011,
+      "Brand": "Suzuki",
+      "price": 16637.37,
+      "Model": "Grand Vitara",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9649,
+      "year": 1995,
+      "Brand": "Dodge",
+      "price": 18733.71,
+      "Model": "Ram 3500 Club Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9650,
+      "year": 2007,
+      "Brand": "Toyota",
+      "price": 20575.83,
+      "Model": "Tacoma Access Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9651,
+      "year": 2019,
+      "Brand": "Ford",
+      "price": 26360.13,
+      "Model": "Transit 150 Wagon",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9652,
+      "year": 2016,
+      "Brand": "Acura",
+      "price": 34084.45,
+      "Model": "MDX",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9653,
+      "year": 2013,
+      "Brand": "Nissan",
+      "price": 18057.01,
+      "Model": "Quest",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9654,
+      "year": 2019,
+      "Brand": "Jaguar",
+      "price": 49699.06,
+      "Model": "XF",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9655,
+      "year": 1998,
+      "Brand": "Chevrolet",
+      "price": 24254.31,
+      "Model": "Camaro",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9656,
+      "year": 2006,
+      "Brand": "Ford",
+      "price": 25859.0,
+      "Model": "F350 Super Duty Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9657,
+      "year": 2017,
+      "Brand": "Audi",
+      "price": 45062.4,
+      "Model": "A4",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9658,
+      "year": 1995,
+      "Brand": "Acura",
+      "price": 33269.08,
+      "Model": "Integra",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9659,
+      "year": 2006,
+      "Brand": "Saturn",
+      "price": 9447.1,
+      "Model": "VUE",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9660,
+      "year": 2020,
+      "Brand": "Chrysler",
+      "price": 21611.71,
+      "Model": "Voyager",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9661,
+      "year": 2013,
+      "Brand": "Cadillac",
+      "price": 46653.10999999999,
+      "Model": "SRX",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9662,
+      "year": 2003,
+      "Brand": "Hyundai",
+      "price": 17319.21,
+      "Model": "Elantra",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9663,
+      "year": 1997,
+      "Brand": "Isuzu",
+      "price": 2273.59,
+      "Model": "Hombre Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9664,
+      "year": 2000,
+      "Brand": "Dodge",
+      "price": 22746.87,
+      "Model": "Ram 3500 Quad Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9665,
+      "year": 2005,
+      "Brand": "Ford",
+      "price": 25304.82,
+      "Model": "Escape",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9666,
+      "year": 2000,
+      "Brand": "Chevrolet",
+      "price": 21504.230000000003,
+      "Model": "3500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9667,
+      "year": 2015,
+      "Brand": "GMC",
+      "price": 18096.71,
+      "Model": "Sierra 3500 HD Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9668,
+      "year": 2005,
+      "Brand": "Nissan",
+      "price": 19019.670000000002,
+      "Model": "Maxima",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9669,
+      "year": 2004,
+      "Brand": "Toyota",
+      "price": 19066.27,
+      "Model": "4Runner",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9670,
+      "year": 2013,
+      "Brand": "Dodge",
+      "price": 19516.29,
+      "Model": "Dart",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9671,
+      "year": 2005,
+      "Brand": "GMC",
+      "price": 19093.39,
+      "Model": "Envoy XL",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9672,
+      "year": 1997,
+      "Brand": "Honda",
+      "price": 21814.9,
+      "Model": "Civic",
+      "type": "Sedan, Coupe, Hatchback"
+    },
+    {
+      "StockNum": 9673,
+      "year": 2016,
+      "Brand": "Hyundai",
+      "price": 18288.96,
+      "Model": "Tucson",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9674,
+      "year": 1994,
+      "Brand": "Hyundai",
+      "price": 14695.44,
+      "Model": "Excel",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9675,
+      "year": 2006,
+      "Brand": "Honda",
+      "price": 22790.01,
+      "Model": "Accord",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9676,
+      "year": 2019,
+      "Brand": "Ford",
+      "price": 25947.31,
+      "Model": "Transit 250 Van",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9677,
+      "year": 1992,
+      "Brand": "Honda",
+      "price": 20528.93,
+      "Model": "Accord",
+      "type": "Sedan, Coupe, Wagon"
+    },
+    {
+      "StockNum": 9678,
+      "year": 2009,
+      "Brand": "Chevrolet",
+      "price": 21758.7,
+      "Model": "Silverado 2500 HD Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9679,
+      "year": 2004,
+      "Brand": "Chevrolet",
+      "price": 21872.74,
+      "Model": "Silverado 3500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9680,
+      "year": 2015,
+      "Brand": "BMW",
+      "price": 42073.06,
+      "Model": "i3",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9681,
+      "year": 2020,
+      "Brand": "Ford",
+      "price": 23923.35,
+      "Model": "Expedition",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9682,
+      "year": 2018,
+      "Brand": "Cadillac",
+      "price": 43298.939999999995,
+      "Model": "CTS-V",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9683,
+      "year": 2010,
+      "Brand": "Jeep",
+      "price": 41221.24,
+      "Model": "Wrangler",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9684,
+      "year": 2007,
+      "Brand": "Suzuki",
+      "price": 17204.77,
+      "Model": "SX4",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9685,
+      "year": 2006,
+      "Brand": "Mercedes-Benz",
+      "price": 73022.06999999999,
+      "Model": "SLK-Class",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9686,
+      "year": 2014,
+      "Brand": "Bentley",
+      "price": 347538.95,
+      "Model": "Mulsanne",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9687,
+      "year": 2016,
+      "Brand": "Audi",
+      "price": 47558.259999999995,
+      "Model": "S8",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9688,
+      "year": 2011,
+      "Brand": "GMC",
+      "price": 19503.45,
+      "Model": "Savana 2500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9689,
+      "year": 2017,
+      "Brand": "Hyundai",
+      "price": 14980.84,
+      "Model": "Ioniq Hybrid",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9690,
+      "year": 2012,
+      "Brand": "GMC",
+      "price": 19333.68,
+      "Model": "Savana 2500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9691,
+      "year": 2015,
+      "Brand": "Mercedes-Benz",
+      "price": 71351.75,
+      "Model": "B-Class",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9692,
+      "year": 2008,
+      "Brand": "Chevrolet",
+      "price": 23424.570000000003,
+      "Model": "Silverado 3500 HD Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9693,
+      "year": 2009,
+      "Brand": "Ferrari",
+      "price": 227908.83,
+      "Model": "430 Scuderia",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9694,
+      "year": 2018,
+      "Brand": "Nissan",
+      "price": 19304.58,
+      "Model": "NV200",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9695,
+      "year": 2014,
+      "Brand": "Chevrolet",
+      "price": 21359.75,
+      "Model": "Impala Limited",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9696,
+      "year": 2011,
+      "Brand": "Audi",
+      "price": 46072.2,
+      "Model": "Q5",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9697,
+      "year": 2013,
+      "Brand": "Land Rover",
+      "price": 104559.84,
+      "Model": "Range Rover",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9698,
+      "year": 2013,
+      "Brand": "Jaguar",
+      "price": 51096.88,
+      "Model": "XF",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9699,
+      "year": 2019,
+      "Brand": "Tesla",
+      "price": 49765.59,
+      "Model": "Model 3",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9700,
+      "year": 2005,
+      "Brand": "Nissan",
+      "price": 18112.74,
+      "Model": "Altima",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9701,
+      "year": 2007,
+      "Brand": "Cadillac",
+      "price": 45221.299999999996,
+      "Model": "SRX",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9702,
+      "year": 2010,
+      "Brand": "Lexus",
+      "price": 49154.909999999996,
+      "Model": "LS",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9703,
+      "year": 2004,
+      "Brand": "Nissan",
+      "price": 21091.6,
+      "Model": "350Z",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9704,
+      "year": 1998,
+      "Brand": "GMC",
+      "price": 20667.98,
+      "Model": "Savana 1500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9705,
+      "year": 2017,
+      "Brand": "BMW",
+      "price": 45143.10999999999,
+      "Model": "i8",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9706,
+      "year": 2013,
+      "Brand": "Chevrolet",
+      "price": 25028.530000000002,
+      "Model": "Suburban 1500",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9707,
+      "year": 1999,
+      "Brand": "Lincoln",
+      "price": 53273.27,
+      "Model": "Continental",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9708,
+      "year": 2018,
+      "Brand": "Lincoln",
+      "price": 51367.42,
+      "Model": "MKZ",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9709,
+      "year": 2009,
+      "Brand": "Toyota",
+      "price": 21655.94,
+      "Model": "FJ Cruiser",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9710,
+      "year": 1996,
+      "Brand": "Chevrolet",
+      "price": 23048.210000000003,
+      "Model": "Lumina",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9711,
+      "year": 2017,
+      "Brand": "FIAT",
+      "price": 2756.8500000000004,
+      "Model": "124 Spider",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9712,
+      "year": 1996,
+      "Brand": "Acura",
+      "price": 30444.49,
+      "Model": "NSX",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9713,
+      "year": 2006,
+      "Brand": "Dodge",
+      "price": 18727.13,
+      "Model": "Sprinter 2500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9714,
+      "year": 2015,
+      "Brand": "Kia",
+      "price": 16106.65,
+      "Model": "Rio",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9715,
+      "year": 2005,
+      "Brand": "Chevrolet",
+      "price": 23442.890000000003,
+      "Model": "Silverado 1500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9716,
+      "year": 2015,
+      "Brand": "Chevrolet",
+      "price": 23691.010000000002,
+      "Model": "Spark EV",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9717,
+      "year": 2016,
+      "Brand": "Subaru",
+      "price": 23987.19,
+      "Model": "Crosstrek",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9718,
+      "year": 2010,
+      "Brand": "Chevrolet",
+      "price": 25325.050000000003,
+      "Model": "Express 1500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9719,
+      "year": 1996,
+      "Brand": "Ford",
+      "price": 26108.61,
+      "Model": "Econoline E250 Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9720,
+      "year": 2010,
+      "Brand": "INFINITI",
+      "price": 35792.03999999999,
+      "Model": "M",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9721,
+      "year": 2008,
+      "Brand": "Chevrolet",
+      "price": 22333.99,
+      "Model": "Express 3500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9722,
+      "year": 1993,
+      "Brand": "Nissan",
+      "price": 18203.13,
+      "Model": "Maxima",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9723,
+      "year": 2010,
+      "Brand": "Ford",
+      "price": 26978.16,
+      "Model": "Ranger Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9724,
+      "year": 2017,
+      "Brand": "GMC",
+      "price": 18696.64,
+      "Model": "Canyon Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9725,
+      "year": 2007,
+      "Brand": "GMC",
+      "price": 22759.55,
+      "Model": "Savana 1500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9726,
+      "year": 2010,
+      "Brand": "Bentley",
+      "price": 349898.5,
+      "Model": "Azure T",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9727,
+      "year": 2006,
+      "Brand": "Chevrolet",
+      "price": 25451.120000000003,
+      "Model": "SSR",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9728,
+      "year": 2018,
+      "Brand": "GMC",
+      "price": 21875.71,
+      "Model": "Yukon",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9729,
+      "year": 1992,
+      "Brand": "Isuzu",
+      "price": 2550.19,
+      "Model": "Spacecab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9730,
+      "year": 2014,
+      "Brand": "GMC",
+      "price": 20293.98,
+      "Model": "Sierra 1500 Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9731,
+      "year": 1999,
+      "Brand": "Ford",
+      "price": 25269.47,
+      "Model": "F150 Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9732,
+      "year": 2005,
+      "Brand": "Volkswagen",
+      "price": 19686.66,
+      "Model": "Passat",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9733,
+      "year": 1998,
+      "Brand": "GMC",
+      "price": 22054.9,
+      "Model": "Sonoma Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9734,
+      "year": 2006,
+      "Brand": "Land Rover",
+      "price": 103183.95999999999,
+      "Model": "Range Rover Sport",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9735,
+      "year": 2009,
+      "Brand": "Bentley",
+      "price": 347608.38,
+      "Model": "Azure",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9736,
+      "year": 2009,
+      "Brand": "Nissan",
+      "price": 18812.19,
+      "Model": "Versa",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9737,
+      "year": 2006,
+      "Brand": "Mitsubishi",
+      "price": 17457.04,
+      "Model": "Eclipse",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9738,
+      "year": 1999,
+      "Brand": "Cadillac",
+      "price": 44583.509999999995,
+      "Model": "DeVille",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9739,
+      "year": 1998,
+      "Brand": "Dodge",
+      "price": 22132.57,
+      "Model": "Dakota Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9740,
+      "year": 2013,
+      "Brand": "Volvo",
+      "price": 42138.52,
+      "Model": "XC70",
+      "type": "Wagon"
+    },
+    {
+      "StockNum": 9741,
+      "year": 2005,
+      "Brand": "Ford",
+      "price": 26850.81,
+      "Model": "Expedition",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9742,
+      "year": 2010,
+      "Brand": "Audi",
+      "price": 48601.17,
+      "Model": "A6",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9743,
+      "year": 2012,
+      "Brand": "Audi",
+      "price": 45062.36,
+      "Model": "A5",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9744,
+      "year": 1998,
+      "Brand": "Ford",
+      "price": 24907.01,
+      "Model": "F250 Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9745,
+      "year": 2009,
+      "Brand": "Chevrolet",
+      "price": 24142.11,
+      "Model": "Cobalt",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9746,
+      "year": 1994,
+      "Brand": "Chevrolet",
+      "price": 24106.890000000003,
+      "Model": "2500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9747,
+      "year": 1993,
+      "Brand": "Oldsmobile",
+      "price": 13571.17,
+      "Model": "Achieva",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9748,
+      "year": 2018,
+      "Brand": "Ford",
+      "price": 24064.04,
+      "Model": "F150 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9749,
+      "year": 2010,
+      "Brand": "Honda",
+      "price": 22471.6,
+      "Model": "Civic",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9750,
+      "year": 2018,
+      "Brand": "Toyota",
+      "price": 19969.44,
+      "Model": "Yaris",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9751,
+      "year": 1997,
+      "Brand": "Mitsubishi",
+      "price": 17639.85,
+      "Model": "Eclipse",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9752,
+      "year": 2002,
+      "Brand": "GMC",
+      "price": 19304.97,
+      "Model": "Safari Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9753,
+      "year": 2000,
+      "Brand": "Lincoln",
+      "price": 54543.17,
+      "Model": "Navigator",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9754,
+      "year": 2004,
+      "Brand": "BMW",
+      "price": 46295.5,
+      "Model": "3 Series",
+      "type": "Sedan, Coupe, Convertible, Wagon"
+    },
+    {
+      "StockNum": 9755,
+      "year": 2005,
+      "Brand": "Volkswagen",
+      "price": 22020.94,
+      "Model": "Jetta",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9756,
+      "year": 2016,
+      "Brand": "Hyundai",
+      "price": 15014.210000000001,
+      "Model": "Sonata",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9757,
+      "year": 2010,
+      "Brand": "Volvo",
+      "price": 41887.24,
+      "Model": "XC60",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9758,
+      "year": 2020,
+      "Brand": "Subaru",
+      "price": 25898.59,
+      "Model": "Ascent",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9759,
+      "year": 2015,
+      "Brand": "Hyundai",
+      "price": 18142.43,
+      "Model": "Equus",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9760,
+      "year": 2006,
+      "Brand": "Chevrolet",
+      "price": 21730.72,
+      "Model": "HHR",
+      "type": "Wagon"
+    },
+    {
+      "StockNum": 9761,
+      "year": 2005,
+      "Brand": "Chevrolet",
+      "price": 24684.420000000002,
+      "Model": "Uplander Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9762,
+      "year": 1997,
+      "Brand": "Jeep",
+      "price": 41849.939999999995,
+      "Model": "Wrangler",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9763,
+      "year": 1993,
+      "Brand": "GMC",
+      "price": 21342.97,
+      "Model": "Rally Wagon 3500",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9764,
+      "year": 2017,
+      "Brand": "Ram",
+      "price": 20960.4,
+      "Model": "1500 Quad Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9765,
+      "year": 2007,
+      "Brand": "Dodge",
+      "price": 18107.86,
+      "Model": "Grand Caravan Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9766,
+      "year": 2004,
+      "Brand": "Hyundai",
+      "price": 17036.34,
+      "Model": "Elantra",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9767,
+      "year": 2000,
+      "Brand": "MAZDA",
+      "price": 18531.55,
+      "Model": "B-Series Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9768,
+      "year": 2008,
+      "Brand": "Ford",
+      "price": 26326.19,
+      "Model": "Explorer",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9769,
+      "year": 2008,
+      "Brand": "Nissan",
+      "price": 19080.09,
+      "Model": "Versa",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9770,
+      "year": 2014,
+      "Brand": "Jeep",
+      "price": 41587.969999999994,
+      "Model": "Cherokee",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9771,
+      "year": 2000,
+      "Brand": "Ford",
+      "price": 27189.44,
+      "Model": "Explorer Sport",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9772,
+      "year": 1994,
+      "Brand": "Eagle",
+      "price": 10329.48,
+      "Model": "Summit",
+      "type": "Sedan, Coupe, Wagon"
+    },
+    {
+      "StockNum": 9773,
+      "year": 1997,
+      "Brand": "Volkswagen",
+      "price": 19041.05,
+      "Model": "Cabrio",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9774,
+      "year": 2010,
+      "Brand": "MINI",
+      "price": 19747.07,
+      "Model": "Clubman",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9775,
+      "year": 2008,
+      "Brand": "BMW",
+      "price": 42781.78,
+      "Model": "7 Series",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9776,
+      "year": 2002,
+      "Brand": "Pontiac",
+      "price": 16630.88,
+      "Model": "Firebird",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9777,
+      "year": 2019,
+      "Brand": "Nissan",
+      "price": 19726.3,
+      "Model": "Titan King Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9778,
+      "year": 1997,
+      "Brand": "Chevrolet",
+      "price": 22197.320000000003,
+      "Model": "2500 HD Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9779,
+      "year": 1992,
+      "Brand": "Pontiac",
+      "price": 17429.98,
+      "Model": "Grand Prix",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "StockNum": 9780,
+      "year": 2004,
+      "Brand": "Toyota",
+      "price": 18203.9,
+      "Model": "Solara",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9781,
+      "year": 1996,
+      "Brand": "GMC",
+      "price": 19006.47,
+      "Model": "2500 Club Coupe",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9782,
+      "year": 2000,
+      "Brand": "Dodge",
+      "price": 19454.84,
+      "Model": "Ram 1500 Quad Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9783,
+      "year": 2014,
+      "Brand": "Honda",
+      "price": 20812.04,
+      "Model": "CR-V",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9784,
+      "year": 2015,
+      "Brand": "INFINITI",
+      "price": 36021.6,
+      "Model": "QX80",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9785,
+      "year": 1993,
+      "Brand": "Chevrolet",
+      "price": 22640.81,
+      "Model": "Cavalier",
+      "type": "Coupe, Sedan, Wagon, Convertible"
+    },
+    {
+      "StockNum": 9786,
+      "year": 2019,
+      "Brand": "Kia",
+      "price": 15216.16,
+      "Model": "Rio",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "StockNum": 9787,
+      "year": 2012,
+      "Brand": "Nissan",
+      "price": 18534.1,
+      "Model": "Murano",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9788,
+      "year": 1993,
+      "Brand": "Jeep",
+      "price": 39048.92,
+      "Model": "Cherokee",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9789,
+      "year": 2010,
+      "Brand": "Volkswagen",
+      "price": 21229.19,
+      "Model": "New Beetle",
+      "type": "Convertible, Hatchback"
+    },
+    {
+      "StockNum": 9790,
+      "year": 2019,
+      "Brand": "Kia",
+      "price": 15621.28,
+      "Model": "Cadenza",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9791,
+      "year": 2016,
+      "Brand": "GMC",
+      "price": 18924.13,
+      "Model": "Sierra 2500 HD Double Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9792,
+      "year": 1997,
+      "Brand": "Dodge",
+      "price": 19590.56,
+      "Model": "Avenger",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9793,
+      "year": 2007,
+      "Brand": "GMC",
+      "price": 21254.97,
+      "Model": "Sierra 1500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9794,
+      "year": 2008,
+      "Brand": "Dodge",
+      "price": 20438.670000000002,
+      "Model": "Ram 2500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9795,
+      "year": 2015,
+      "Brand": "Volkswagen",
+      "price": 19044.05,
+      "Model": "Jetta",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9796,
+      "year": 2001,
+      "Brand": "Chevrolet",
+      "price": 22303.66,
+      "Model": "Silverado 3500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9797,
+      "year": 2008,
+      "Brand": "Hyundai",
+      "price": 18959.52,
+      "Model": "Entourage",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9798,
+      "year": 1993,
+      "Brand": "Dodge",
+      "price": 22884.920000000002,
+      "Model": "Ramcharger",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9799,
+      "year": 1998,
+      "Brand": "Chevrolet",
+      "price": 23089.010000000002,
+      "Model": "Astro Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9800,
+      "year": 2003,
+      "Brand": "Chrysler",
+      "price": 19471.4,
+      "Model": "PT Cruiser",
+      "type": "Wagon"
+    },
+    {
+      "StockNum": 9801,
+      "year": 2008,
+      "Brand": "Land Rover",
+      "price": 107104.34,
+      "Model": "Range Rover",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9802,
+      "year": 1993,
+      "Brand": "Dodge",
+      "price": 20971.87,
+      "Model": "Ram Wagon B250",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9803,
+      "year": 2004,
+      "Brand": "Porsche",
+      "price": 83258.25,
+      "Model": "Cayenne",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9804,
+      "year": 2007,
+      "Brand": "HUMMER",
+      "price": 32516.9,
+      "Model": "H2",
+      "type": "SUV, Pickup"
+    },
+    {
+      "StockNum": 9805,
+      "year": 2003,
+      "Brand": "Oldsmobile",
+      "price": 16133.08,
+      "Model": "Aurora",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9806,
+      "year": 2019,
+      "Brand": "Mercedes-Benz",
+      "price": 71770.95999999999,
+      "Model": "Mercedes-AMG GT",
+      "type": "Coupe, Sedan, Convertible"
+    },
+    {
+      "StockNum": 9807,
+      "year": 2018,
+      "Brand": "BMW",
+      "price": 42148.67,
+      "Model": "M5",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9808,
+      "year": 2013,
+      "Brand": "Honda",
+      "price": 18974.18,
+      "Model": "Crosstour",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9809,
+      "year": 1999,
+      "Brand": "Honda",
+      "price": 18479.36,
+      "Model": "CR-V",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9810,
+      "year": 1995,
+      "Brand": "Ford",
+      "price": 23399.43,
+      "Model": "Taurus",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "StockNum": 9811,
+      "year": 2009,
+      "Brand": "Mercury",
+      "price": 12459.53,
+      "Model": "Grand Marquis",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9812,
+      "year": 2008,
+      "Brand": "Dodge",
+      "price": 22996.09,
+      "Model": "Ram 2500 Mega Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9813,
+      "year": 1992,
+      "Brand": "Hyundai",
+      "price": 17072.91,
+      "Model": "Scoupe",
+      "type": "Coupe"
+    },
+    {
+      "StockNum": 9814,
+      "year": 2008,
+      "Brand": "Suzuki",
+      "price": 16440.65,
+      "Model": "Reno",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9815,
+      "year": 2004,
+      "Brand": "Scion",
+      "price": 14567.85,
+      "Model": "xB",
+      "type": "Hatchback"
+    },
+    {
+      "StockNum": 9816,
+      "year": 2000,
+      "Brand": "MAZDA",
+      "price": 18353.11,
+      "Model": "Millenia",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9817,
+      "year": 1997,
+      "Brand": "Chevrolet",
+      "price": 22263.66,
+      "Model": "Camaro",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "StockNum": 9818,
+      "year": 2008,
+      "Brand": "Dodge",
+      "price": 20439.14,
+      "Model": "Charger",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9819,
+      "year": 2007,
+      "Brand": "Kia",
+      "price": 15892.11,
+      "Model": "Sedona",
+      "type": "Van/Minivan"
+    },
+    {
+      "StockNum": 9820,
+      "year": 1993,
+      "Brand": "Mercedes-Benz",
+      "price": 75078.72,
+      "Model": "300 SE",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9821,
+      "year": 2000,
+      "Brand": "Chrysler",
+      "price": 18318.25,
+      "Model": "LHS",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9822,
+      "year": 2010,
+      "Brand": "Ford",
+      "price": 23545.1,
+      "Model": "Ranger Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9823,
+      "year": 2018,
+      "Brand": "GMC",
+      "price": 19394.81,
+      "Model": "Sierra 3500 HD Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9824,
+      "year": 1994,
+      "Brand": "Audi",
+      "price": 49740.38,
+      "Model": "Cabriolet",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9825,
+      "year": 1999,
+      "Brand": "Cadillac",
+      "price": 42231.45,
+      "Model": "Escalade",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9826,
+      "year": 2018,
+      "Brand": "Jaguar",
+      "price": 49750.64,
+      "Model": "XJ",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9827,
+      "year": 2018,
+      "Brand": "Lexus",
+      "price": 49206.869999999995,
+      "Model": "IS",
+      "type": "Sedan"
+    },
+    {
+      "StockNum": 9828,
+      "year": 1996,
+      "Brand": "GMC",
+      "price": 22150.46,
+      "Model": "2500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "StockNum": 9829,
+      "year": 2018,
+      "Brand": "Volkswagen",
+      "price": 18111.69,
+      "Model": "Golf Alltrack",
+      "type": "Wagon"
+    },
+    {
+      "StockNum": 9830,
+      "year": 2004,
+      "Brand": "Toyota",
+      "price": 22120.02,
+      "Model": "Land Cruiser",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9831,
+      "year": 1996,
+      "Brand": "GMC",
+      "price": 18468.75,
+      "Model": "Vandura G3500",
+      "type": "Van/Minivan"
+    },{
+      "StockNum": 9582,
+      "year": 2008,
+      "Brand": "Buick",
+      "price": 4387.61,
+      "Model": "Enclave",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9583,
+      "year": 2006,
+      "Brand": "MINI",
+      "price": 22575.670000000002,
+      "Model": "Convertible",
+      "type": "Convertible"
+    },
+    {
+      "StockNum": 9584,
+      "year": 2019,
+      "Brand": "Volvo",
+      "price": 41704.84,
+      "Model": "XC90",
+      "type": "SUV"
+    },
+    {
+      "StockNum": 9585,
+      "ModelYear": 1999,
+      "Brand": "Ford",
+      "Price": 23830.02,
+      "Model": "Taurus",
+      "type": "Sedan, Wagon"
+    }
+  ]
+}
