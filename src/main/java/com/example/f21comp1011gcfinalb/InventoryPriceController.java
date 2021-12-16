@@ -32,6 +32,7 @@ public class InventoryPriceController implements Initializable {
     @FXML
     private Label headerLabel;
 
+
     private void onLoadCarList(){
         carListView.getItems().clear();
         Dealership dealership = APIUtility.getFromJsonFile();
@@ -39,6 +40,15 @@ public class InventoryPriceController implements Initializable {
         {
             carListView.getItems().addAll(dealership.getStock());
             headerLabel.setText("Dealer: " + dealership.getDealer());
+
+            int min =0;
+            int max =19999;
+            for (int i=0; i<=17; i++) {
+                PriceRange range = new PriceRange(min, max);
+                min += 20000;
+                max += 20000;
+                priceListView.getItems().add(range);
+            }
         }
     }
 
